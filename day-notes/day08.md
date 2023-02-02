@@ -43,9 +43,7 @@
 - Integration Testing: Tests to determine if connected pieces are working together
 - Likely to have the first version not be working at 100%
 
----
 ## Break
----
 
 ## Tangent on ChatGPT
 - Can use ChatGPT for the test if we want to
