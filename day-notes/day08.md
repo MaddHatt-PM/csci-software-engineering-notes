@@ -50,6 +50,6 @@
 - No rules for the university so its similar to how tech companies on the bleeding edge work
 - Theres a talk coming up about AI and ChatGPT (nevermind professor only)
 
-For class on Tuesday:
+## For class on Tuesday:
 - Thinking about the UI (Console)
 - Should mention my TimeUnit class that handles parsing
