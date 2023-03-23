@@ -1,0 +1,12 @@
+# Opening
+- Exam on Moodle on Interval Scheduling Algorithms
+- Striving to have less than 4 classrooms
+- Can copy over course instances
+- Sort([CourseInstances]) - Bubble Sort
+- [Classroom] looping through as a list might be a bad idea
+    - Use a minHeap?
+- More info to come
+- Video on modular monoliths (Different than the monolith that we're using at the moment)
+- Classes can be stripped down to bare essentials
+    - CourseInstance(name, startTime, endTime)
+    - ClassRoom(name, List[CourseInstance])
